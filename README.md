@@ -22,7 +22,3 @@ Download the latest APK asset from the **[Releases](https://github.com/a092devs/
 - **OS**: Android 7.0 (API level 24) or higher.
 - **RAM**: 2 GB minimum (4 GB recommended).
 - **Supported ABIs**: `arm64-v8a`, `armeabi-v7a`, `x86`, `x86_64`.
-
----
-
-Source repository: [a092devs/LudoParty](https://github.com/a092devs/LudoParty)
